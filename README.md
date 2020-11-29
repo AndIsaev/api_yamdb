@@ -5,4 +5,5 @@
 - Python
 - Django
 - Django REST Framework
+
 Документация по API Yamdb: http://localhost:8000/redoc/
