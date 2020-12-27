@@ -11,6 +11,7 @@
 - Python
 - Django
 - Django REST Framework
+- Docker
 
 # Развертывание проекта
 
